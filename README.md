@@ -1,2 +1,6 @@
 # Cisco-Packet-Tracer-Labs
-Cisco Packet Tracer labs including routing, switching, VLANs, ACLs, and network security basics.
+THIS REPOSITORY INCLUDES TOPICS
+STATIC ROUTING
+RIP ROUTING
+EIGRP ROUTING
+OSPF ROUTING -1 ( AREA 0 )
